@@ -1,2 +1,2 @@
 # squad2-basp-project-server
-TEST 2
+TEST 3
